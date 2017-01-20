@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exam_6_July_2016.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.YoungCouple">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>YoungCouple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.YoungCoupleWithChildren">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>YoungCoupleWithChildren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.OldCouple" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>OldCouple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.AloneYoung">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>AloneYoung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.AloneOld">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AloneOld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.Child">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Child.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.Couple" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAwAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Couple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.HouseHold" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAiAAABAAAAIAAAAAAAACAAAAAAAAgAIAAAAEAA=</HashCode>
+      <FileName>HouseHold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_6_July_2016.Single">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Single.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
